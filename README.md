@@ -23,7 +23,7 @@ Here is some example code how you can do this:
 # change this to the location of the submission file (in folder of assignment data)
 Y_pred_format = pd.read_excel('BIDS_assignment_test_data_predictionsubmissionformat.xlsx')
 # change this variable (y_pred_test) to whatever you named the predicted class of the assignment test data
-Y_pred_format.Predicted_CancerType = y_pred_test # note this was changed from Predicted_group to Predicted_CancerType
+Y_pred_format.Predicted_Group = y_pred_test # note this was changed from Predicted_group to Predicted_CancerType
 # change this to YOUR CID number
 CID = '1234567'
 # change this for the type of submission (formative or summative)
