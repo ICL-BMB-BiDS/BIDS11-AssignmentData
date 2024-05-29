@@ -14,7 +14,7 @@ If your CID is 01234567 and you are submitting for formative feedback:
 
 If submitting for summative assessment of the coursework:
 
-6. Save this file as BIDS_2024_01234567_test_predictions_coursework.xlsx
+6. Save this file as BIDS_2024_01234567_test_predictions_summative.xlsx
 
 Instructions of how to receive formative feedback are provided in BIDS 11 (and re-iterated in BIDS 12).
 
