@@ -1,20 +1,23 @@
 # Assignment_Data
 All materials for the assignment can be found here:
-- BIDS_assignment_training_data.xlsx
+<!-- - BIDS_assignment_training_data.xlsx -->
+- BIDS_assignment_training_data_RESIT.xlsx
 - BIDS_assignment_test_data.xlsx
 - BIDS_assignment_test_data_predictionsubmissionformat.xlsx
 
-1. Use BIDS_assignment_training_data.xlsx to train your models.
+<!-- 1. Use BIDS_assignment_training_data.xlsx to train your models. -->
+1. Use BIDS_assignment_training_data_RESIT.xlsx to train your models.
 2. Apply your model on BIDS_assignment_test_data.xlsx.
 3. Add your test set predictions in BIDS_assignment_test_data_predictionsubmissionformat.xlsx.
 
-If your CID is 01234567 and you are submitting for formative feedback:
+<!-- If your CID is 01234567 and you are submitting for formative feedback: -->
+<!-- 4. Save this file as BIDS_2024_01234567_test_predictions_formative.xlsx -->
 
-5. Save this file as BIDS_2024_01234567_test_predictions_formative.xlsx
+<!-- If submitting for summative assessment of the coursework: -->
+To submit for summative assessment of the coursework, and your CID is 01234567:
 
-If submitting for summative assessment of the coursework:
-
-6. Save this file as BIDS_2024_01234567_test_predictions_summative.xlsx
+<!-- 5. Save this file as BIDS_2024_01234567_test_predictions_summative.xlsx -->
+4. Save this file as BIDS_2024_01234567_test_predictions_summative.xlsx
 
 Instructions of how to receive formative feedback are provided in BIDS 11 (and re-iterated in BIDS 12).
 
