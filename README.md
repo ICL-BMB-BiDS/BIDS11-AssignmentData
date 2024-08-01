@@ -19,18 +19,18 @@ To submit for summative assessment of the coursework, and your CID is 01234567:
 <!-- 5. Save this file as BIDS_2024_01234567_test_predictions_summative.xlsx -->
 4. Save this file as BIDS_2024_01234567_test_predictions_summative.xlsx
 
-Instructions of how to receive formative feedback are provided in BIDS 11 (and re-iterated in BIDS 12).
+<!-- Instructions of how to receive formative feedback are provided in BIDS 11 (and re-iterated in BIDS 12). -->
 
 Here is some example code how you can do this:
 ```
 # change this to the location of the submission file (in folder of assignment data)
 Y_pred_format = pd.read_excel('BIDS_assignment_test_data_predictionsubmissionformat.xlsx')
 # change this variable (y_pred_test) to whatever you named the predicted class of the assignment test data
-Y_pred_format.Predicted_Group = y_pred_test # note this was changed from Predicted_group to Predicted_CancerType
+Y_pred_format.Predicted_Group = y_pred_test
 # change this to YOUR CID number
 CID = '1234567'
 # change this for the type of submission (formative or summative)
-tp = 'formative'
+tp = 'summative'
 
 # do not change anything below
 filename1 = 'BIDS_2024_' # do not change this
