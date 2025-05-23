@@ -7,7 +7,7 @@ All materials for the assignment can be found here:
 - BIDS_assignment_test_data_predictionsubmissionformat.xlsx
 
 <!-- 1. Use BIDS_assignment_training_data.xlsx to train your models. -->
-1. Use BIDS_assignment_training_data.xlsx to train your supervised models, or BIDS_assignment_training_data_unlabelled.xlsx for unsupervised and clustering models before the full training data is released.
+1. Use BIDS_assignment_training_data.xlsx to train and evaluate your models (remember to split the data) <!-- # supervised models, or BIDS_assignment_training_data_unlabelled.xlsx for unsupervised and clustering models before the full training data is released. -->
 2. Apply your model on BIDS_assignment_test_data.xlsx.
 3. Add your test set predictions in BIDS_assignment_test_data_predictionsubmissionformat.xlsx.
 
